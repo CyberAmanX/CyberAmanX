@@ -22,7 +22,7 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**.
 Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 
 ## 🎖️ Certifications
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TKA87KW647CS)
+[![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TKA87KW647CS)
 [![IBM Cybersecurity Specialist](https://img.shields.io/badge/IBM-Cybersecurity_Specialist-black?logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TST8DKX96ZEC)
 [![RedHat Admin](https://img.shields.io/badge/RedHat-Linux_Admin-red?logo=redhat&logoColor=white)](https://www.redhat.com/en/services/training-and-certification)
 [![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto-Cybersecurity_Specialization-orange?logo=paloaltonetworks&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/NPPMC48KEAGD)
