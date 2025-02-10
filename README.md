@@ -1,10 +1,10 @@
-# 🚀 ExtraGoldfish4361
+# 🚀 Aman Parihar
 
 ## 🛡️ Cybersecurity Enthusiast | Penetration Tester | SOC Analyst in Training
 
 Hi there 👋 I’m a passionate **Cybersecurity Student** specializing in Security Analyst, Incident Response, and Penetration Testing. I love solving CTF challenges, exploring vulnerabilities, and building secure systems.
 
-- 🎯 Currently working on: **Threat Hunting & Malware Analysis**  
+- 🎯 Currently working on: **AI Automation in Cybersecurity & Security Architect**  
 - 🔐 Skills: `Incident Response`, `SOC Analysis`, `Penetration Testing`, `Python Scripting`  
 - 🌍 Preparing for global cybersecurity roles in top tech companies  
 - ⚡ Fun Fact: I enjoy breaking things (ethically!) and fixing them even faster.
