@@ -23,9 +23,9 @@ Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 
 ## 🎖️ Certifications
 [![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TKA87KW647CS)
-[![IBM Cybersecurity Specialist](https://img.shields.io/badge/IBM-Cybersecurity_Specialist-black?logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TST8DKX96ZEC)
-[![RedHat Admin](https://img.shields.io/badge/RedHat-Linux_Admin-red?logo=redhat&logoColor=white)](https://www.redhat.com/en/services/training-and-certification)
-[![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto-Cybersecurity_Specialization-orange?logo=paloaltonetworks&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/NPPMC48KEAGD)
+[![IBM Cybersecurity Specialist](https://img.shields.io/badge/IBM%20Cybersecurity-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TST8DKX96ZEC)
+[![RedHat Admin](https://img.shields.io/badge/RedHat%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en/services/training-and-certification)
+[![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-0070FF?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/NPPMC48KEAGD)
 
 ## 🛠️ Tools & Technologies  
 
