@@ -23,7 +23,7 @@ Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 
 ## 🎖️ Certifications
 [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TKA87KW647CS)
-[![IBM & ISC2 Cybersecurity Specialist](https://img.shields.io/badge/IBM-Cybersecurity_Specialist-black?logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TST8DKX96ZEC)
+[![IBM Cybersecurity Specialist](https://img.shields.io/badge/IBM-Cybersecurity_Specialist-black?logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TST8DKX96ZEC)
 [![RedHat Admin](https://img.shields.io/badge/RedHat-Linux_Admin-red?logo=redhat&logoColor=white)](https://www.redhat.com/en/services/training-and-certification)
 [![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto-Cybersecurity_Specialization-orange?logo=paloaltonetworks&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/NPPMC48KEAGD)
 
