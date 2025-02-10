@@ -22,11 +22,10 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**.
 Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 
 ## 🎖️ Certifications
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
-[![IBM Cybersecurity](https://img.shields.io/badge/IBM-Cybersecurity_Specialist-black?logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
-[![ISC² Certified](https://img.shields.io/badge/ISC²-Cybersecurity_Specialist-green?logo=isc2&logoColor=white)](https://www.isc2.org/)
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TKA87KW647CS)
+[![IBM & ISC2 Cybersecurity Specialist](https://img.shields.io/badge/IBM-Cybersecurity_Specialist-black?logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TST8DKX96ZEC)
 [![RedHat Admin](https://img.shields.io/badge/RedHat-Linux_Admin-red?logo=redhat&logoColor=white)](https://www.redhat.com/en/services/training-and-certification)
-[![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto-Cybersecurity_Specialization-orange?logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com/cybersecurity-academy)
+[![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto-Cybersecurity_Specialization-orange?logo=paloaltonetworks&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/NPPMC48KEAGD)
 
 
 
