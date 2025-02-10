@@ -76,6 +76,13 @@ Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 
 
 
+## 🧠 Knowledge Sharing  
+- ✍️ **How to Build a Home Lab for Ethical Hacking** – [Read Blog](https://yourcyberblog.com/home-lab)  
+- 🎤 **Speaker at CyberGeeks Conference 2023**  
+- 📹 **SOC Analyst Webinar** – [Watch on YouTube](https://youtube.com/yourvideo)
+- 
+
+
 ## 📫 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanparihar-cybersecurity)
@@ -84,3 +91,9 @@ Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 - [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/your-reddit-username)
 - [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/your-tryhackme-username)
 - [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/your-htb-id)
+
+  
+
+> “The quieter you become, the more you are able to hear.” — **Ram Dass**  
+> “Hack the planet. Secure the future.”  
+
