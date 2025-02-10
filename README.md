@@ -35,32 +35,11 @@ Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberAmanX&layout=compact&theme=radical)
 
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
-<p align="center">  
-  <a href="https://linkedin.com/in/amanparihar-cybersecurity" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>  
-  &nbsp;
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>  
-  &nbsp;
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
-  </a>  
-  &nbsp;
-  <a href="https://www.reddit.com/user/your-reddit-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" alt="Reddit" width="40" height="40"/>
-  </a>  
-  &nbsp;
-  <a href="https://tryhackme.com/p/your-tryhackme-username" target="_blank">
-    <img src="https://tryhackme-images.s3.amazonaws.com/THMlogo.png" alt="TryHackMe" width="40" height="40"/>
-  </a>  
-  &nbsp;
-  <a href="https://app.hackthebox.com/profile/your-htb-id" target="_blank">
-    <img src="https://www.hackthebox.com/images/logo-htb.svg" alt="Hack The Box" width="40" height="40"/>
-  </a>  
-</p>  
-
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanparihar-cybersecurity)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/your-reddit-username)
+- [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/your-tryhackme-username)
+- [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/your-htb-id)
