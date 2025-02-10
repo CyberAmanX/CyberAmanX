@@ -12,16 +12,21 @@ Hi there 👋 I’m a passionate **Cybersecurity Student** specializing in Secur
 ---
 
 ## 📂 Projects
-### 🚨 [Threat Detection System](https://github.com/yourproject)
-A real-time threat detection system using Python and ELK Stack.
+### 🚨 [Projects Folder](https://github.com/yourproject)
+For SOC tools, scripts, penetration testing tools.
 
 ### 🕵️ [CTF Write-Ups](https://github.com/yourCTFwriteups)
 Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**.
 
-### 🧪 [Malware Analysis Lab](https://github.com/yourmalwareanalysis)
-Reverse engineering malware samples using Ghidra and Volatility.
+### 🧪 [Simulated Home Lab](https://github.com/yourmalwareanalysis)
+Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 
----
+## 🎖️ Certifications
+
+| ![Google](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg) | ![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg) | ![ISC2](https://upload.wikimedia.org/wikipedia/commons/2/21/ISC2_logo.svg) | ![RedHat](https://upload.wikimedia.org/wikipedia/commons/d/d3/Red_Hat_logo.svg) | ![PaloAlto](https://upload.wikimedia.org/wikipedia/commons/2/29/Palo_Alto_Networks_logo.svg) |
+|:--:|:--:|:--:|:--:|:--:|
+| Google Cybersecurity | IBM Cybersecurity Specialist | ISC² Specialist | RedHat Linux Admin | Palo Alto Cybersecurity |
+
 
 ## 📊 GitHub Stats
 
@@ -31,6 +36,6 @@ Reverse engineering malware samples using Ghidra and Volatility.
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/ExtraGoldfish4361](https://linkedin.com/amanparihar-cybersecurity)
+- **LinkedIn:** [linkedin.com/in/amanparihar-cybersecurity]
 - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 - **Blog:** [yourcyberblog.com](https://yourcyberblog.com)
