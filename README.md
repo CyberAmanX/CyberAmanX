@@ -22,10 +22,12 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**.
 Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 
 ## 🎖️ Certifications
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+[![IBM Cybersecurity](https://img.shields.io/badge/IBM-Cybersecurity_Specialist-black?logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+[![ISC² Certified](https://img.shields.io/badge/ISC²-Cybersecurity_Specialist-green?logo=isc2&logoColor=white)](https://www.isc2.org/)
+[![RedHat Admin](https://img.shields.io/badge/RedHat-Linux_Admin-red?logo=redhat&logoColor=white)](https://www.redhat.com/en/services/training-and-certification)
+[![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto-Cybersecurity_Specialization-orange?logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com/cybersecurity-academy)
 
-| ![Google](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg) | ![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg) | ![ISC2](https://upload.wikimedia.org/wikipedia/commons/2/21/ISC2_logo.svg) | ![RedHat](https://upload.wikimedia.org/wikipedia/commons/d/d3/Red_Hat_logo.svg) | ![PaloAlto](https://upload.wikimedia.org/wikipedia/commons/2/29/Palo_Alto_Networks_logo.svg) |
-|:--:|:--:|:--:|:--:|:--:|
-| Google Cybersecurity | IBM Cybersecurity Specialist | ISC² Specialist | RedHat Linux Admin | Palo Alto Cybersecurity |
 
 
 ## 📊 GitHub Stats
