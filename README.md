@@ -37,6 +37,6 @@ Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/amanparihar-cybersecurity]
+- **LinkedIn:** [linkedin.com/in/amanparihar-cybersecurity](https://linkedin.com/in/amanparihar-cybersecurity)
 - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 - **Blog:** [yourcyberblog.com](https://yourcyberblog.com)
