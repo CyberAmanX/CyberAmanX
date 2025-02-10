@@ -73,7 +73,7 @@ Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberAmanX&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberAmanX&layout=compact&theme=radical)
+
 
 
 ## 📫 Connect with Me
