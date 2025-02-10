@@ -27,6 +27,47 @@ Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 [![RedHat Admin](https://img.shields.io/badge/RedHat-Linux_Admin-red?logo=redhat&logoColor=white)](https://www.redhat.com/en/services/training-and-certification)
 [![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto-Cybersecurity_Specialization-orange?logo=paloaltonetworks&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/NPPMC48KEAGD)
 
+## 🛠️ Tools & Technologies  
+
+### 🔍 **Offensive Security & Penetration Testing**  
+![Metasploit](https://img.shields.io/badge/Metasploit-3F5DFF?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-004682?style=for-the-badge&logo=nmap&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![Hydra](https://img.shields.io/badge/Hydra-228B22?style=for-the-badge)  
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge)  
+
+---
+
+### 🖥️ **Network Analysis & Monitoring**  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+![Tcpdump](https://img.shields.io/badge/Tcpdump-FF4500?style=for-the-badge)  
+![Snort](https://img.shields.io/badge/Snort-FF3366?style=for-the-badge)  
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge)  
+
+---
+
+### ☁️ **Cloud & SIEM Tools**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)  
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)  
+
+---
+
+### ⚙️ **Scripting & Automation**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+
+---
+
+### 🗃️ **Operating Systems**  
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+
+
 
 
 ## 📊 GitHub Stats
