@@ -1,5 +1,5 @@
 
-![Wallpaper](https://wallhaven.cc/w/4lzgkq)
+![Wallpaper](wallpaper.png)
 
 Hi there 👋
 I am Aman, a passionate Cybersecurity Student currently completing my final year in **Computer Science** at a university in India always ready to help out people who are in danger of getting their systems destroyed due to the insensitivity of other inexperienced individuals. My background crosses risk management, penetration testing, incident response, malware analysis, and SOC. I love to learn via hackathons, workshops and hands on projects while collaborating with others and I think the future of cybersecurity is going to be a blend of automation,AI and human creativity.” When I’m not hacking security logs or building defenses, you’ll see me marathoning documentaries on history, business and philosophy — all powered by coffee ☕.
