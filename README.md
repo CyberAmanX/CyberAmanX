@@ -11,11 +11,10 @@ I am seeking opportunities to further my career in cybersecurity and contribute 
 ### 🕵️ [CTF Write-Ups](https://https://github.com/CyberAmanX/Labs-Write-Ups)
 Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**.
 
-### 🧪 [Simulated Home Lab]
+### 🧪 [Projects]
 - [Honeypot on Azure Cloud](https://https://github.com/CyberAmanX/T-pot-Honeypot-on-Azure-Cloud)
 - [Nessus Vulnerability Scan](https://github.com/CyberAmanX/Nessus-Vulnerability-Scanner)
 
-Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 
 ---
 
