@@ -67,11 +67,6 @@ Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberAmanX&show_icons=true&theme=radical)
 
 ---
 
