@@ -1,31 +1,31 @@
-# 🚀 Aman Parihar
 
-## 🛡️ Cybersecurity Enthusiast | Penetration Tester | SOC Analyst in Training
+![Wallpaper](https://wallhaven.cc/w/4lzgkq)
 
-Hi there 👋 I’m a passionate **Cybersecurity Student** specializing in Security Analyst, Incident Response, and Penetration Testing. I love solving CTF challenges, exploring vulnerabilities, and building secure systems.
+Hi there 👋
+I am Aman, a passionate Cybersecurity Student currently completing my final year in **Computer Science** at a university in India always ready to help out people who are in danger of getting their systems destroyed due to the insensitivity of other inexperienced individuals. My background crosses risk management, penetration testing, incident response, malware analysis, and SOC. I love to learn via hackathons, workshops and hands on projects while collaborating with others and I think the future of cybersecurity is going to be a blend of automation,AI and human creativity.” When I’m not hacking security logs or building defenses, you’ll see me marathoning documentaries on history, business and philosophy — all powered by coffee ☕.
 
-- 🎯 Currently working on: **AI Automation in Cybersecurity & Cloud Security**  
-- 🔐 Skills: `Incident Response`, `SOC Analysis`, `Penetration Testing`, `Python Scripting`  
-- 🌍 Preparing for global cybersecurity roles in top tech companies  
-- ⚡ Fun Fact: I enjoy breaking things (ethically!) and fixing them even faster.
+I am seeking opportunities to further my career in cybersecurity and contribute effectively to the industry by providing security solutions to individuals and organizations.
 
+---
 
-
-## 📂 Projects
-### 🚨 [Projects Folder](https://github.com/yourproject)
-For SOC tools, scripts, penetration testing tools.
-
-### 🕵️ [CTF Write-Ups](https://github.com/yourCTFwriteups)
+### 🕵️ [CTF Write-Ups](https://https://github.com/CyberAmanX/Labs-Write-Ups)
 Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**.
 
-### 🧪 [Simulated Home Lab](https://github.com/yourmalwareanalysis)
+### 🧪 [Simulated Home Lab]
+- [Honeypot on Azure Cloud](https://https://github.com/CyberAmanX/T-pot-Honeypot-on-Azure-Cloud)
+- [Nessus Vulnerability Scan](https://github.com/CyberAmanX/Nessus-Vulnerability-Scanner)
+
 Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
+
+---
 
 ## 🎖️ Certifications
 [![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TKA87KW647CS)
 [![IBM Cybersecurity Specialist](https://img.shields.io/badge/IBM%20Cybersecurity-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/TST8DKX96ZEC)
 [![RedHat Admin](https://img.shields.io/badge/RedHat%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en/services/training-and-certification)
 [![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-0070FF?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/NPPMC48KEAGD)
+
+---
 
 ## 🛠️ Tools & Technologies  
 
@@ -67,21 +67,18 @@ Simulations of Home Lab, Log Monitoring, Firewall & IDS/IPS etc.
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
-
-
+---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberAmanX&show_icons=true&theme=radical)
 
-
+---
 
 ## 🧠 Knowledge Sharing  
-- ✍️ **How to Build a Home Lab for Ethical Hacking** – [Read Blog](https://yourcyberblog.com/home-lab)  
-- 🎤 **Speaker at CyberGeeks Conference 2023**  
-- 📹 **SOC Analyst Webinar** – [Watch on YouTube](https://youtube.com/yourvideo)
-- 
+- ✍️ **How to Build a Home Lab for Ethical Hacking** – [Read Blog](https://medium.com/@amanthakur9889)  
 
+---
 
 ## 📫 Connect with Me
 
