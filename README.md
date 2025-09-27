@@ -12,7 +12,7 @@ I am seeking opportunities to further my career in cybersecurity and contribute 
 Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
 - [Labs & CTF Writeups](https://github.com/CyberAmanX/Labs-Write-Ups)
 
-### 🧪 [Projects] https://github.com/CyberAmanX/SIEM-Homelab-Wazuh-Sysmon-AD
+### 🧪 [Projects] 
 - [Honeypot on Azure Cloud](https://github.com/CyberAmanX/T-pot-Honeypot-on-Azure-Cloud)
 - [Nessus Vulnerability Scan](https://github.com/CyberAmanX/Nessus-Vulnerability-Scanner)
 - [SIEM-Homelab-Wazuh-Sysmon-AD](https://github.com/CyberAmanX/SIEM-Homelab-Wazuh-Sysmon-AD)
