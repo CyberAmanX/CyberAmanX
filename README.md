@@ -12,7 +12,7 @@ I am seeking opportunities to further my career in cybersecurity and contribute 
 Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**.
 
 ### 🧪 [Projects]
-- [Honeypot on Azure Cloud](https://https://github.com/CyberAmanX/T-pot-Honeypot-on-Azure-Cloud)
+- [Honeypot on Azure Cloud](https://github.com/CyberAmanX/T-pot-Honeypot-on-Azure-Cloud)
 - [Nessus Vulnerability Scan](https://github.com/CyberAmanX/Nessus-Vulnerability-Scanner)
 
 
