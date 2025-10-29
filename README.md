@@ -87,5 +87,8 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
   
 
 > “The quieter you become, the more you are able to hear.” — **Ram Dass**  
-> “Hack the planet. Secure the future.”  
+> “Hack the planet. Secure the future.”
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jm3kcicyg34qrxhzywwjysvnjy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jm3kcicyg34qrxhzywwjysvnjy&redirect=true)
 
