@@ -90,5 +90,8 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
 > “Hack the planet. Secure the future.”
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jm3kcicyg34qrxhzywwjysvnjy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jm3kcicyg34qrxhzywwjysvnjy&redirect=true)
-
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=sjwqtxqosw6cyddpt0nc8k5u5&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sjwqtxqosw6cyddpt0nc8k5u5&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true">
+  </a>
+</p>
